@@ -38,7 +38,7 @@ class _HomeScreenState extends State<HomeScreen> {
         AboutScreen(),
         EducationScreen(),
         SkillsScreen(),
-        WorkScreen(),
+        WorkExperienceScreen(),
         // PROJECTS & ACCOMPLISHMENTS
         ContactScreen(),
       ],

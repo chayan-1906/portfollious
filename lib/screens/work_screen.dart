@@ -10,14 +10,14 @@ import '../generated/assets.dart';
 import '../globals/global_constant_function.dart';
 import '../widgets/web_layout.dart';
 
-class WorkScreen extends StatefulWidget {
-  const WorkScreen({Key key}) : super(key: key);
+class WorkExperienceScreen extends StatefulWidget {
+  const WorkExperienceScreen({Key key}) : super(key: key);
 
   @override
-  State<WorkScreen> createState() => _WorkScreenState();
+  State<WorkExperienceScreen> createState() => _WorkExperienceScreenState();
 }
 
-class _WorkScreenState extends State<WorkScreen> {
+class _WorkExperienceScreenState extends State<WorkExperienceScreen> {
   String duration = '';
   LocalDate skywaJoiningDate = LocalDate.dateTime(DateTime(2021, 09, 01));
   bool isLoading = false;

@@ -25,7 +25,7 @@ class LeftDrawer extends StatelessWidget {
       'ABOUT',
       'EDUCATION',
       'SKILLS',
-      'WORK',
+      'WORK & EXPERIENCES',
       // 'PROJECTS & ACCOMPLISHMENTS',
       'CONTACT',
     ];
