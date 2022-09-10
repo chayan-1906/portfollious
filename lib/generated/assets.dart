@@ -2,6 +2,9 @@
 class Assets {
   Assets._();
 
+  static const String imagesSpringBootIcon = 'assets/images/91ovedmu4grqhjh434rq.png';
+  static const String imagesAndroidIcon = 'assets/images/android_icon.png';
+  static const String imagesAutomationTestingIcon = 'assets/images/automation_testing_icon.png';
   static const String imagesFlutterLogo = 'assets/images/flutter_logo.png';
   static const String imagesFooter = 'assets/images/footer.png';
   static const String imagesHazarduariPalace = 'assets/images/hazarduari_palace.png';
